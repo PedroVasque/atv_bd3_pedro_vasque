@@ -1,0 +1,402 @@
+[
+  {
+      "nome_do_produto": "Fone de Ouvido Bluetooth",
+      "valor_do_produto": 199.90,
+      "quantidade_em_estoque": 150,
+      "fabricante_do_produto": "TechSound",
+      "categoria_do_produto": "Eletrônicos",
+      "descricao_do_produto": "Fone de ouvido sem fio com cancelamento de ruído, bateria de longa duração e conforto ergonômico."
+  },
+  {
+      "nome_do_produto": "Smartwatch Fitness",
+      "valor_do_produto": 349.90,
+      "quantidade_em_estoque": 80,
+      "fabricante_do_produto": "FitTrack",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Relógio inteligente com monitoramento de frequência cardíaca, GPS integrado e várias modalidades esportivas."
+  },
+  {
+      "nome_do_produto": "Cadeira Gamer Ergonomica",
+      "valor_do_produto": 799.90,
+      "quantidade_em_estoque": 30,
+      "fabricante_do_produto": "GameZone",
+      "categoria_do_produto": "Móveis",
+      "descricao_do_produto": "Cadeira com design ergonômico, ajustes de altura e reclinável, ideal para longas sessões de jogos."
+  },
+  {
+      "nome_do_produto": "Teclado Mecânico RGB",
+      "valor_do_produto": 299.90,
+      "quantidade_em_estoque": 100,
+      "fabricante_do_produto": "KeyTech",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Teclado mecânico com retroiluminação RGB e switches de alta performance."
+  },
+  {
+      "nome_do_produto": "Monitor 27\" Full HD",
+      "valor_do_produto": 1299.90,
+      "quantidade_em_estoque": 50,
+      "fabricante_do_produto": "ViewSonic",
+      "categoria_do_produto": "Eletrônicos",
+      "descricao_do_produto": "Monitor com resolução Full HD, ótimo para jogos e trabalho, com tecnologia anti-reflexo."
+  },
+  {
+      "nome_do_produto": "Roupão de Banho Microfibra",
+      "valor_do_produto": 89.90,
+      "quantidade_em_estoque": 200,
+      "fabricante_do_produto": "Conforto Lar",
+      "categoria_do_produto": "Vestuário",
+      "descricao_do_produto": "Roupão de banho super macio, leve e absorvente, disponível em várias cores."
+  },
+  {
+      "nome_do_produto": "Mochila Antifurto",
+      "valor_do_produto": 159.90,
+      "quantidade_em_estoque": 120,
+      "fabricante_do_produto": "SafeBag",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Mochila com compartimentos secretos e material resistente à água, ideal para viagens."
+  },
+  {
+      "nome_do_produto": "Conjunto de Panelas Antiaderentes",
+      "valor_do_produto": 399.90,
+      "quantidade_em_estoque": 60,
+      "fabricante_do_produto": "Cozinha Prática",
+      "categoria_do_produto": "Utensílios Domésticos",
+      "descricao_do_produto": "Conjunto de panelas com revestimento antiaderente, fácil de limpar e ideal para cozinhar sem óleo."
+  },
+  {
+      "nome_do_produto": "Diffusor de Aromas Elétrico",
+      "valor_do_produto": 129.90,
+      "quantidade_em_estoque": 75,
+      "fabricante_do_produto": "AromaZen",
+      "categoria_do_produto": "Bem-estar",
+      "descricao_do_produto": "Diffusor de aromas com luz LED, ideal para criar um ambiente relaxante."
+  },
+  {
+      "nome_do_produto": "Power Bank 20.000mAh",
+      "valor_do_produto": 119.90,
+      "quantidade_em_estoque": 140,
+      "fabricante_do_produto": "PowerTech",
+      "categoria_do_produto": "Eletrônicos",
+      "descricao_do_produto": "Carregador portátil com alta capacidade, ideal para viagens e uso diário."
+  },
+  {
+      "nome_do_produto": "Aspirador de Pó Vertical",
+      "valor_do_produto": 499.90,
+      "quantidade_em_estoque": 40,
+      "fabricante_do_produto": "CleanHome",
+      "categoria_do_produto": "Eletrodomésticos",
+      "descricao_do_produto": "Aspirador vertical sem fio com potência de sucção ajustável e filtro HEPA."
+  },
+  {
+      "nome_do_produto": "Capa de Sofá Impermeável",
+      "valor_do_produto": 149.90,
+      "quantidade_em_estoque": 100,
+      "fabricante_do_produto": "Casa Prática",
+      "categoria_do_produto": "Móveis",
+      "descricao_do_produto": "Capa de sofá resistente à água, disponível em várias cores e tamanhos."
+  },
+  {
+      "nome_do_produto": "Caixa de Som Portátil",
+      "valor_do_produto": 249.90,
+      "quantidade_em_estoque": 90,
+      "fabricante_do_produto": "SoundWave",
+      "categoria_do_produto": "Eletrônicos",
+      "descricao_do_produto": "Caixa de som Bluetooth com alta qualidade de áudio e bateria de longa duração."
+  },
+  {
+      "nome_do_produto": "Jogo de Lençol King Size",
+      "valor_do_produto": 199.90,
+      "quantidade_em_estoque": 70,
+      "fabricante_do_produto": "Conforto Total",
+      "categoria_do_produto": "Cama e Banho",
+      "descricao_do_produto": "Jogo de lençol em microfibra, super macio e fácil de lavar."
+  },
+  {
+      "nome_do_produto": "Cafeteira Elétrica",
+      "valor_do_produto": 299.90,
+      "quantidade_em_estoque": 60,
+      "fabricante_do_produto": "Café & Cia",
+      "categoria_do_produto": "Eletrodomésticos",
+      "descricao_do_produto": "Cafeteira com capacidade para 12 xícaras, com função de aquecimento."
+  },
+  {
+      "nome_do_produto": "Relógio de Parede Moderno",
+      "valor_do_produto": 89.90,
+      "quantidade_em_estoque": 150,
+      "fabricante_do_produto": "DecoraFácil",
+      "categoria_do_produto": "Decoração",
+      "descricao_do_produto": "Relógio de parede com design minimalista e números grandes."
+  },
+  {
+      "nome_do_produto": "Ventilador de Mesa",
+      "valor_do_produto": 129.90,
+      "quantidade_em_estoque": 80,
+      "fabricante_do_produto": "BreezeCool",
+      "categoria_do_produto": "Eletrodomésticos",
+      "descricao_do_produto": "Ventilador portátil com 3 velocidades e oscilação."
+  },
+  {
+      "nome_do_produto": "Conjunto de Facas de Cozinha",
+      "valor_do_produto": 199.90,
+      "quantidade_em_estoque": 50,
+      "fabricante_do_produto": "ChefMaster",
+      "categoria_do_produto": "Utensílios Domésticos",
+      "descricao_do_produto": "Conjunto com 5 facas em aço inox e suporte magnético."
+  },
+  {
+      "nome_do_produto": "Garrafa Térmica de Aço",
+      "valor_do_produto": 89.90,
+      "quantidade_em_estoque": 200,
+      "fabricante_do_produto": "EcoBrew",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Garrafa térmica que mantém a bebida quente ou fria por até 12 horas."
+  },
+  {
+      "nome_do_produto": "Panelas de Pressão",
+      "valor_do_produto": 349.90,
+      "quantidade_em_estoque": 40,
+      "fabricante_do_produto": "Cozinha Rápida",
+      "categoria_do_produto": "Utensílios Domésticos",
+      "descricao_do_produto": "Panelas de pressão em alumínio, com tampas de segurança."
+  },
+  {
+      "nome_do_produto": "Tábua de Corte de Bamboo",
+      "valor_do_produto": 49.90,
+      "quantidade_em_estoque": 150,
+      "fabricante_do_produto": "EcoKitchen",
+      "categoria_do_produto": "Utensílios Domésticos",
+      "descricao_do_produto": "Tábua de corte resistente e ecológica, ideal para preparação de alimentos."
+  },
+  {
+      "nome_do_produto": "Kit de Pincéis de Maquiagem",
+      "valor_do_produto": 89.90,
+      "quantidade_em_estoque": 100,
+      "fabricante_do_produto": "BeautyArt",
+      "categoria_do_produto": "Beleza",
+      "descricao_do_produto": "Conjunto com 10 pincéis de maquiagem de alta qualidade."
+  },
+  {
+      "nome_do_produto": "Mochila para Notebook",
+      "valor_do_produto": 159.90,
+      "quantidade_em_estoque": 120,
+      "fabricante_do_produto": "TechBag",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Mochila com compartimento acolchoado para notebook e diversos bolsos organizadores."
+  },
+  {
+      "nome_do_produto": "Cama Inflável",
+      "valor_do_produto": 299.90,
+      "quantidade_em_estoque": 30,
+      "fabricante_do_produto": "Conforto Móvel",
+      "categoria_do_produto": "Móveis",
+      "descricao_do_produto": "Cama inflável de alta resistência, ideal para acampamentos e hóspedes."
+  },
+  {
+      "nome_do_produto": "Purificador de Água",
+      "valor_do_produto": 399.90,
+      "quantidade_em_estoque": 25,
+      "fabricante_do_produto": "AquaPure",
+      "categoria_do_produto": "Eletrodomésticos",
+      "descricao_do_produto": "Purificador com sistema de filtragem avançado e design compacto."
+  },
+  {
+      "nome_do_produto": "Caixa Organizadora",
+      "valor_do_produto": 59.90,
+      "quantidade_em_estoque": 200,
+      "fabricante_do_produto": "OrganizaTudo",
+      "categoria_do_produto": "Decoração",
+      "descricao_do_produto": "Caixa organizadora em plástico resistente, ideal para guardar brinquedos ou roupas."
+  },
+  {
+      "nome_do_produto": "Conjunto de Canecas de Porcelana",
+      "valor_do_produto": 119.90,
+      "quantidade_em_estoque": 70,
+      "fabricante_do_produto": "Cerâmica Bela",
+      "categoria_do_produto": "Utensílios Domésticos",
+      "descricao_do_produto": "Conjunto com 4 canecas elegantes, ideal para café e chá."
+  },
+  {
+      "nome_do_produto": "Batedeira Elétrica",
+      "valor_do_produto": 349.90,
+      "quantidade_em_estoque": 45,
+      "fabricante_do_produto": "BakePro",
+      "categoria_do_produto": "Eletrodomésticos",
+      "descricao_do_produto": "Batedeira com 5 velocidades e tigela de inox, perfeita para receitas."
+  },
+  {
+      "nome_do_produto": "Trava de Segurança para Crianças",
+      "valor_do_produto": 39.90,
+      "quantidade_em_estoque": 150,
+      "fabricante_do_produto": "SafeKids",
+      "categoria_do_produto": "Segurança",
+      "descricao_do_produto": "Trava fácil de instalar, ideal para proteger crianças de armários e gavetas."
+  },
+  {
+      "nome_do_produto": "Alisador de Cabelos",
+      "valor_do_produto": 199.90,
+      "quantidade_em_estoque": 80,
+      "fabricante_do_produto": "HairStyle",
+      "categoria_do_produto": "Beleza",
+      "descricao_do_produto": "Alisador com placas de cerâmica, tecnologia de aquecimento rápido."
+  },
+  {
+      "nome_do_produto": "Câmera de Segurança Wi-Fi",
+      "valor_do_produto": 499.90,
+      "quantidade_em_estoque": 35,
+      "fabricante_do_produto": "SecureView",
+      "categoria_do_produto": "Segurança",
+      "descricao_do_produto": "Câmera com visão noturna e acesso remoto via aplicativo."
+  },
+  {
+      "nome_do_produto": "Suporte para TV",
+      "valor_do_produto": 199.90,
+      "quantidade_em_estoque": 60,
+      "fabricante_do_produto": "HomeTech",
+      "categoria_do_produto": "Móveis",
+      "descricao_do_produto": "Suporte de parede ajustável, compatível com TVs de até 55 polegadas."
+  },
+  {
+      "nome_do_produto": "Luminária LED",
+      "valor_do_produto": 89.90,
+      "quantidade_em_estoque": 100,
+      "fabricante_do_produto": "LightUp",
+      "categoria_do_produto": "Iluminação",
+      "descricao_do_produto": "Luminária com luz regulável e design moderno, ideal para escritório ou quarto."
+  },
+  {
+      "nome_do_produto": "Perfume Feminino",
+      "valor_do_produto": 199.90,
+      "quantidade_em_estoque": 50,
+      "fabricante_do_produto": "AromaLux",
+      "categoria_do_produto": "Beleza",
+      "descricao_do_produto": "Perfume floral, com notas de frutas cítricas e baunilha."
+  },
+  {
+      "nome_do_produto": "Balança Digital",
+      "valor_do_produto": 79.90,
+      "quantidade_em_estoque": 120,
+      "fabricante_do_produto": "FitBalance",
+      "categoria_do_produto": "Bem-estar",
+      "descricao_do_produto": "Balança digital com medição precisa e design moderno."
+  },
+  {
+      "nome_do_produto": "Triciclo Infantil",
+      "valor_do_produto": 399.90,
+      "quantidade_em_estoque": 25,
+      "fabricante_do_produto": "KidRide",
+      "categoria_do_produto": "Brinquedos",
+      "descricao_do_produto": "Triciclo resistente, com ajuste de altura e design seguro."
+  },
+  {
+      "nome_do_produto": "Kit de Ferramentas",
+      "valor_do_produto": 299.90,
+      "quantidade_em_estoque": 40,
+      "fabricante_do_produto": "ToolBox",
+      "categoria_do_produto": "Ferramentas",
+      "descricao_do_produto": "Conjunto completo com 25 ferramentas, ideal para pequenos reparos."
+  },
+  {
+      "nome_do_produto": "Tênis Esportivo",
+      "valor_do_produto": 249.90,
+      "quantidade_em_estoque": 90,
+      "fabricante_do_produto": "RunFast",
+      "categoria_do_produto": "Calçados",
+      "descricao_do_produto": "Tênis leve e confortável, ideal para corridas e atividades físicas."
+  },
+  {
+      "nome_do_produto": "Garrafa de Água Reutilizável",
+      "valor_do_produto": 59.90,
+      "quantidade_em_estoque": 200,
+      "fabricante_do_produto": "EcoDrink",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Garrafa de água em inox, com capacidade de 500ml, livre de BPA."
+  },
+  {
+      "nome_do_produto": "Fritadeira Sem Óleo",
+      "valor_do_produto": 499.90,
+      "quantidade_em_estoque": 45,
+      "fabricante_do_produto": "FryPro",
+      "categoria_do_produto": "Eletrodomésticos",
+      "descricao_do_produto": "Fritadeira elétrica com tecnologia de circulação de ar quente, ideal para frituras saudáveis."
+  },
+  {
+      "nome_do_produto": "Porta-Retrato Digital",
+      "valor_do_produto": 249.90,
+      "quantidade_em_estoque": 55,
+      "fabricante_do_produto": "PhotoFrame",
+      "categoria_do_produto": "Decoração",
+      "descricao_do_produto": "Porta-retrato digital com tela de 10 polegadas, para exibir suas melhores memórias."
+  },
+  {
+      "nome_do_produto": "Escova de Dente Elétrica",
+      "valor_do_produto": 199.90,
+      "quantidade_em_estoque": 80,
+      "fabricante_do_produto": "CleanTech",
+      "categoria_do_produto": "Higiene",
+      "descricao_do_produto": "Escova de dente com tecnologia sônica, promove limpeza eficiente e saúde bucal."
+  },
+  {
+      "nome_do_produto": "Mochila de Camping",
+      "valor_do_produto": 299.90,
+      "quantidade_em_estoque": 35,
+      "fabricante_do_produto": "AdventurePack",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Mochila resistente, com capacidade de 60 litros e vários compartimentos."
+  },
+  {
+      "nome_do_produto": "Jogo de Cama Queen Size",
+      "valor_do_produto": 299.90,
+      "quantidade_em_estoque": 50,
+      "fabricante_do_produto": "Dormir Bem",
+      "categoria_do_produto": "Cama e Banho",
+      "descricao_do_produto": "Jogo de cama em 100% algodão, suave e confortável."
+  },
+  {
+      "nome_do_produto": "Caixa de Ferramentas",
+      "valor_do_produto": 129.90,
+      "quantidade_em_estoque": 70,
+      "fabricante_do_produto": "BuildIt",
+      "categoria_do_produto": "Ferramentas",
+      "descricao_do_produto": "Caixa de ferramentas robusta, ideal para organização e transporte."
+  },
+  {
+      "nome_do_produto": "Chaleira Elétrica",
+      "valor_do_produto": 149.90,
+      "quantidade_em_estoque": 60,
+      "fabricante_do_produto": "HotTea",
+      "categoria_do_produto": "Eletrodomésticos",
+      "descricao_do_produto": "Chaleira elétrica com controle de temperatura e desligamento automático."
+  },
+  {
+      "nome_do_produto": "Almofada Decorativa",
+      "valor_do_produto": 49.90,
+      "quantidade_em_estoque": 150,
+      "fabricante_do_produto": "Casa Charmosa",
+      "categoria_do_produto": "Decoração",
+      "descricao_do_produto": "Almofada macia com estampas modernas, ideal para sofás e camas."
+  },
+  {
+      "nome_do_produto": "Óculos de Sol Polarizados",
+      "valor_do_produto": 129.90,
+      "quantidade_em_estoque": 80,
+      "fabricante_do_produto": "SunGuard",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Óculos de sol com proteção UV e lentes polarizadas, perfeitos para o verão."
+  },
+  {
+      "nome_do_produto": "Biquíni Feminino",
+      "valor_do_produto": 89.90,
+      "quantidade_em_estoque": 120,
+      "fabricante_do_produto": "BeachWear",
+      "categoria_do_produto": "Moda",
+      "descricao_do_produto": "Biquíni em tecido de alta qualidade, disponível em várias cores e estampas."
+  },
+  {
+      "nome_do_produto": "Cabo USB-C",
+      "valor_do_produto": 29.90,
+      "quantidade_em_estoque": 300,
+      "fabricante_do_produto": "TechCable",
+      "categoria_do_produto": "Acessórios",
+      "descricao_do_produto": "Cabo USB-C durável, compatível com a maioria dos dispositivos modernos."
+  }
+]
